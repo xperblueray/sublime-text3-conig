@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Package Control",
+		"PackageSync",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"TrailingSpaces"
+	]
+}
